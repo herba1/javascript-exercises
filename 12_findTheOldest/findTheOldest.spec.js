@@ -11,7 +11,7 @@ describe('findTheOldest', () => {
       {
         name: "Ray",
         yearOfBirth: 1962,
-        yearOfDeath: 2011,
+        yearOfDeath: 2040,
       },
       {
         name: "Jane",
